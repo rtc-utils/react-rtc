@@ -1,0 +1,7 @@
+{
+  "parser": "babel-eslint",
+  "plugins": ["react"],
+  "rules": {
+    "quotes": [2, "single", { "avoidEscape": true }]
+  }
+}

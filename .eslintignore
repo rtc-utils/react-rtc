@@ -1,0 +1,10 @@
+flow-typed/
+lib/
+dist/
+node_modules/
+scripts/
+build/
+__tests__/
+storybook-static/
+stories/
+src/modules/*/node_modules
